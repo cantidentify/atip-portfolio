@@ -1,5 +1,3 @@
-import { Fragment } from "react"
-
 const Home = () => {
     return(
         <section className="intro-container">
@@ -8,7 +6,7 @@ const Home = () => {
                     <div>I'm <span className="my-name">Atip Yongstar</span></div>
                     <div>I learn from people how to work better.</div>
                     <div className="resume-btn">
-                        <button class="button-78" role="button">RESUME</button>
+                        <button class="button-78">RESUME</button>
                     </div>
 
                 </div>
