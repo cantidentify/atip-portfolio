@@ -557,6 +557,10 @@ button {
   margin-bottom: 0.5rem;
 }
 
+.content-header{
+  margin-bottom: 2rem;
+}
+
 .introduce-content{
   display: grid;
     grid-template-columns: 1fr 1fr;
@@ -565,6 +569,10 @@ button {
 
 .introduce-content-left{
   font-size: 2.5rem;
+}
+
+.about-content-left{
+  font-size: 1.1rem;
 }
 
 .resume-btn{
@@ -585,8 +593,15 @@ button {
   font-family: inherit;
 }
 
-.about-content-detail-detail > p{
+.about-content-detail > p{
   margin-top: 1.5rem;
+}
+
+.career-content{
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: inherit;
 }
 
 .my-name{
@@ -594,8 +609,40 @@ button {
     letter-spacing: 1px;
     font-weight: 900;
     color: #E43F5A;
-  }
+}
 
+.my-home{
+  box-shadow:
+  -50px -50px 0 -40px tomato,
+  50px 50px 0 -40px tomato;
+}
+
+.content-header-p{
+  font-size: 3rem;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #E43F5A;
+}
+
+.career-detail{
+  margin-bottom: 6rem;
+}
+
+.career-title{
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1.1rem;
+}
+
+.career-ferm-name{
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.career-list{
+  list-style: disc;
+  margin-left: 3rem;
+}
 
 
 /* Fantasy-button */

@@ -10,8 +10,8 @@ const Main = () => {
         <>
             <Home/>
             <About/>
-            <Skill/>
             <Career/>
+            <Skill/>
         </>
 
     )
