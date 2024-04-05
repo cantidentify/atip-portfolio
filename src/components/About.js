@@ -10,12 +10,12 @@ const About = () => {
             <div className="about-content-left">
                 <div className="about-content-detail">
                     <p>
-                        Hey there! I'm Atip but you can call me Sun, a passionate adventure seeker with an insatiable curiosity for exploring captivating destinations and experiencing the beauty our world has to offer. </p>
+                        Hey! I'm Atip, but you can just call me Sun. I'm all about chasing adventures and checking out cool places. I'm super curious about exploring awesome destinations and seeing all the amazing stuff our world has. </p>
                     <p>
-                        One day, I dream of venturing to Japan, where I yearn to immerse myself in the tranquility of its natural landscapes, from the serene cherry blossom gardens to the majestic mountains.</p>
+                        I dream of venturing to Japan, I'm itching to soak up the peaceful vibes of its beautiful nature scenes, like those tranquil cherry blossom gardens and reposeful mountains.</p>
 
                     <p>
-                        As a software engineer, my career revolves around crafting intricate backend applications for core banking systems. With a keen eye for detail and a knack for problem-solving, I work diligently to ensure seamless functionality and optimal performance.</p>
+                        As a software engineer, my job revolves around crafting intricate backend applications for banking systems. I'm all about diving into the nitty-gritty details and tackling challenges head-on, ensuring that those apps run seamlessly and perform flawlessly.</p>
                 </div>
             </div>
             <div>
