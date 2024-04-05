@@ -567,6 +567,9 @@ button {
   display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 2rem;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .introduce-content-left{
