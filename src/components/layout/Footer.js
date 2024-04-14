@@ -1,7 +1,6 @@
 import React from 'react'
 import linkinIco from '../../img/linkedin.png'
 import githubIco from '../../img/github.png'
-import { Link } from 'react-router-dom'
 
 
 const Footer = () => {
