@@ -20,7 +20,7 @@ const Career = () => {
                 <p className="career-ferm-name">Innova Software Co., Ltd. | 2021 June - 2022 March</p>
                 <ul className="career-list">
                     <li>Develop high-quality software solutions using C# programming language, adhering to the project requirements and coding standards.</li>
-                    <li>Familiarize yourself with Japanese work culture, including communication protocols, business etiquette, and project management practices, to effectively collaborate with the client and meet their expectations.</li>
+                    <li>Learn how to familiarize with Japanese work culture, including communication protocols, business etiquette, and project management practices, to effectively collaborate with the client and meet their expectations.</li>
                 </ul>
             </div>
             <div className="career-detail">
