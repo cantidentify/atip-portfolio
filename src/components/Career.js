@@ -1,6 +1,6 @@
 const Career = () => {
     return(
-        <section className="container">
+        <section id="career" className="container">
         <div className="content-header">
             <span className="content-header-p">My Career</span>
         </div>

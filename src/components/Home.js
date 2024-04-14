@@ -2,7 +2,7 @@ import self_image from '../img/self_image.jpg'
 
 const Home = () => {
     return(
-        <section className="intro-container">
+        <section id='home' className="intro-container">
             <div className="introduce-content">
                 <div className="introduce-content-left">
                     <div>I'm <span className="my-name">Atip Yongstar</span></div>
