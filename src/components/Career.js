@@ -6,7 +6,7 @@ const Career = () => {
         </div>
         <div className="career-content">
             <div className="career-detail">
-                <p className="career-title">Software Engineer</p>
+                <p className="career-title">Senior Software Engineer</p>
                 <p className="career-ferm-name">T.N. Digital Solutions Co., Ltd. | 2022 June - Present</p>
                 <ul className="career-list">
                     <li>Working in a role of Golang Backend Engineer to develop banking system in an agile environment.</li>
@@ -24,7 +24,7 @@ const Career = () => {
                 </ul>
             </div>
             <div className="career-detail">
-                <p className="career-title">Back-end developper <small>Internship</small></p>
+                <p className="career-title">Back-end Developer <small>Internship</small></p>
                 <p className="career-ferm-name">Optimized Solution | June - September 2020</p>
                 <ul className="career-list">
                     <li>Mostly focus on development of IT equipment stock system on web base developing using PHP language and xampp web stack and mySQL as a database</li>
